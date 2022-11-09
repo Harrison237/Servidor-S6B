@@ -1,3 +1,3 @@
 @echo off
- java -Xmx4096M -Xms4096M -jar paper.jar
+ java -Xmx1024M -Xms1024M -jar paper.jar
 pause
