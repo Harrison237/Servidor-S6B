@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.167.109.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667023451772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667181781140
+  login: 1667178730951
+money: '0'
+last-account-name: nova
+lastlocation:
+  world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+  world-name: Servidor
+  x: 695.1070138096626
+  y: 67.0
+  z: -235.32221774037592
+  yaw: -112.88156127929688
+  pitch: 9.464608192443848
+nickname: §fnova
+logoutlocation:
+  world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+  world-name: Servidor
+  x: 1437.0936095844422
+  y: 91.0
+  z: 2495.295575815244
+  yaw: -12.6595458984375
+  pitch: 21.900203704833984
+homes:
+  queso:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: -264.30000001192093
+    y: 64.0
+    z: -384.9915098412677
+    yaw: -66.3916015625
+    pitch: 12.689658164978027
+  casitajohan:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: 530.1815292130894
+    y: 66.0
+    z: -1576.318649844348
+    yaw: -171.02685546875
+    pitch: 20.099872589111328
+  spawnara_as:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: 970.6999999880791
+    y: 62.0
+    z: -1890.4934634140316
+    yaw: 94.53125
+    pitch: 29.63220977783203

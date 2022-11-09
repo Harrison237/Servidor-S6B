@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.255.3.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667015331565
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667364989618
+  login: 1667361136069
+money: '0'
+last-account-name: JaviiD_
+lastlocation:
+  world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+  world-name: Servidor
+  x: 158.0685563780051
+  y: 63.0
+  z: -169.88772405330766
+  yaw: 70.7396240234375
+  pitch: 9.964933395385742
+nickname: §fJaviiD_
+logoutlocation:
+  world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+  world-name: Servidor
+  x: 181.5108679484597
+  y: -22.0
+  z: -212.02419907820556
+  yaw: 108.552734375
+  pitch: 11.25387191772461
+homes:
+  nether:
+    world: 2bf54e6c-dc94-4912-a9b4-48765f4dc32f
+    world-name: Servidor_nether
+    x: 12.672219101602385
+    y: 63.0
+    z: 80.36241409449168
+    yaw: -17.588592529296875
+    pitch: 23.358564376831055
+  arena:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: -702.9719492845877
+    y: 74.0
+    z: 789.9282934284612
+    yaw: -145.02511596679688
+    pitch: 9.111431121826172
+  home:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: 159.69999998807907
+    y: 65.0
+    z: -164.21854301977882
+    yaw: 40.7060546875
+    pitch: 37.07008361816406

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.83.227.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667021786529
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667022414196
+  login: 1667019811085
+money: '0'
+last-account-name: ByteZenitsu
+lastlocation:
+  world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+  world-name: Servidor
+  x: 376.6722448791255
+  y: 71.0
+  z: -1244.269179553583
+  yaw: 148.52392578125
+  pitch: 6.450124263763428
+nickname: §fByteZenitsu
+logoutlocation:
+  world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+  world-name: Servidor
+  x: 529.3854142823681
+  y: 66.0
+  z: -1573.6140024745594
+  yaw: -165.622314453125
+  pitch: 6.299532890319824
