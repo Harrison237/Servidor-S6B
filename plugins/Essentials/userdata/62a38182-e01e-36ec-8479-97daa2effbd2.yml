@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.203.179.246
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1667968201059
-  login: 1667965283629
+  logout: 1668026504343
+  login: 1668026253537
 money: '0'
 last-account-name: itan237
 lastlocation:
@@ -32,11 +32,11 @@ nickname: §fitan237
 logoutlocation:
   world: 79a2f67f-cb97-471f-a392-98dcb6182b84
   world-name: Servidor
-  x: 168.81552759549345
+  x: 167.59103834833783
   y: 63.0
-  z: -171.26923923766827
-  yaw: -143.308837890625
-  pitch: 35.69984817504883
+  z: -169.3011215945816
+  yaw: -80.5712890625
+  pitch: -33.000118255615234
 homes:
   fortalezasoulsand:
     world: 2bf54e6c-dc94-4912-a9b4-48765f4dc32f
