@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.0.0.1
+ip-address: 127.203.179.246
 afk: false
 socialspy: false
 npc: false
@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1667966721234
+  lastteleport: 1670897006216
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1668026504343
-  login: 1668026253537
+  logout: 1679251188429
+  login: 1679250900272
 money: '0'
 last-account-name: itan237
 lastlocation:
   world: 79a2f67f-cb97-471f-a392-98dcb6182b84
   world-name: Servidor
-  x: 199.52547968084767
-  y: 78.0
-  z: 327.4496909424969
-  yaw: -56.99897384643555
-  pitch: 25.20088005065918
+  x: 175.69999998807907
+  y: -16.0
+  z: -196.30000001192093
+  yaw: -40.27014923095703
+  pitch: 53.610198974609375
 nickname: §fitan237
 logoutlocation:
   world: 79a2f67f-cb97-471f-a392-98dcb6182b84
   world-name: Servidor
-  x: 167.59103834833783
-  y: 63.0
-  z: -169.3011215945816
-  yaw: -80.5712890625
-  pitch: -33.000118255615234
+  x: 110.82808907213843
+  y: 67.0
+  z: -273.43318829345645
+  yaw: -139.0548095703125
+  pitch: 13.550167083740234
 homes:
   fortalezasoulsand:
     world: 2bf54e6c-dc94-4912-a9b4-48765f4dc32f
@@ -70,3 +70,19 @@ homes:
     z: 1145.069790617964
     yaw: -179.9282684326172
     pitch: 2.4927830696105957
+  sur:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: 487.57204746851625
+    y: 68.0
+    z: -1521.0203110462128
+    yaw: 1.636474609375
+    pitch: 11.626510620117188
+  minab:
+    world: 79a2f67f-cb97-471f-a392-98dcb6182b84
+    world-name: Servidor
+    x: -1643.4216570552694
+    y: 71.0
+    z: 193.09907014241656
+    yaw: 134.62750244140625
+    pitch: 12.700433731079102

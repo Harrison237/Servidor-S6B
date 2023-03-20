@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.167.109.102
+ip-address: 127.7.84.214
 afk: false
 socialspy: false
 npc: false
@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1667023451772
+  lastteleport: 1670899125015
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1667181781140
-  login: 1667178730951
+  logout: 1670902726370
+  login: 1670895794254
 money: '0'
 last-account-name: nova
 lastlocation:
   world: 79a2f67f-cb97-471f-a392-98dcb6182b84
   world-name: Servidor
-  x: 695.1070138096626
-  y: 67.0
-  z: -235.32221774037592
-  yaw: -112.88156127929688
-  pitch: 9.464608192443848
+  x: 164.76193752220004
+  y: 63.0
+  z: -169.89759804705088
+  yaw: -148.4217071533203
+  pitch: 10.259754180908203
 nickname: §fnova
 logoutlocation:
   world: 79a2f67f-cb97-471f-a392-98dcb6182b84
   world-name: Servidor
-  x: 1437.0936095844422
-  y: 91.0
-  z: 2495.295575815244
-  yaw: -12.6595458984375
-  pitch: 21.900203704833984
+  x: -192.2250392267607
+  y: 75.7531999805212
+  z: -180.30000001192093
+  yaw: 18.87451171875
+  pitch: 15.378857612609863
 homes:
   queso:
     world: 79a2f67f-cb97-471f-a392-98dcb6182b84
